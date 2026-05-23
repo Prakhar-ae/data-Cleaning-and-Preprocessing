@@ -14,13 +14,13 @@ This project provides a framework for handling common data quality issues includ
 
 # Features
 
- # Flexible Missing Value Handling: Multiple strategies (drop, mean, forward fill, custom)
- # Duplicate Detection and Removal: Remove exact or partial duplicates
- # Text Standardization: Clean and standardize text columns
- # Data Type Conversion: Automatic and manual type conversion
- # Outlier Detection: IQR and Z-score methods
- # Comprehensive Logging: Track all operations and changes
- # Detailed Reports: Generate cleaning reports with statistics
+ - Flexible Missing Value Handling: Multiple strategies (drop, mean, forward fill, custom)
+ - Duplicate Detection and Removal: Remove exact or partial duplicates
+ - Text Standardization: Clean and standardize text columns
+ - Data Type Conversion: Automatic and manual type conversion
+ - Outlier Detection: IQR and Z-score methods
+ - Comprehensive Logging: Track all operations and changes
+ - Detailed Reports: Generate cleaning reports with statistics
 
 # Project Structure
 data-cleaning-project/
